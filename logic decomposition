@@ -1,0 +1,10 @@
+### Prompt: Deconstructing Complex Federal Workflows
+**Goal:** Take a multi-step federal healthcare onboarding process and turn it into a JSON logic map for an automation agent.
+
+**The Prompt Strategy (Chain of Thought):**
+"You are a Senior Systems Architect. I am going to provide a 10-page SOP for federal healthcare credentialing. 
+1. Deconstruct the document into 'If-This-Then-That' logic gates.
+2. Identify areas where data sovereignty (GDPR/PII) constraints apply.
+3. Output a YAML configuration that a Python agent can use to monitor for 'drift' in these steps."
+
+**The Result:** Reduced manual mapping time by 70% and identified three compliance gaps that were previously overlooked.
